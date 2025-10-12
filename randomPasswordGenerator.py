@@ -1,7 +1,7 @@
-"""This Python program generates a random password following specific security rules. 
-The password has a random length between 8 and 16 characters, and each character is randomly selected from the 
-printable ASCII range (positions 33 to 126). It uses the chr() and random.randint() functions to build the password 
-and returns it as a single string."""
+#This Python program generates a random password following specific security rules. 
+#The password has a random length between 8 and 16 characters, and each character is randomly selected from the 
+#printable ASCII range (positions 33 to 126). It uses the chr() and random.randint() functions to build the password 
+#and returns it as a single string.
 
 import random  # Importing the random module
 
