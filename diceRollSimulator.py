@@ -1,6 +1,6 @@
-"""This Python program simulates rolling a pair of dice using the random module.
-Each die roll is generated using the random.randrange() function inside a custom roll_die() function.
-The main program calls this function twice, displays both individual rolls, and prints the total."""
+#This Python program simulates rolling a pair of dice using the random module.
+#Each die roll is generated using the random.randrange() function inside a custom roll_die() function.
+#The main program calls this function twice, displays both individual rolls, and prints the total.
 
 import random  # Importing the random module
 
