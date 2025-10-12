@@ -1,9 +1,7 @@
-"""This Python program asks the user to enter a number and returns the corresponding letter 
-in the English alphabet. It demonstrates basic string indexing and user input handling. 
-The program helps students practice how to access characters in a string using numeric positions."""
+#This Python program asks the user to enter a number and returns the corresponding letter 
+#in the English alphabet. It demonstrates basic string indexing and user input handling. 
+#The program helps students practice how to access characters in a string using numeric positions.
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 alphabet = 'abcdefghijklmnopqrstuvwxyz' #Variable provided by Professor
 
