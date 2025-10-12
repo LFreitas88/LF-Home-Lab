@@ -1,6 +1,6 @@
-"""This Python program calculates how much the ocean level will rise over the next 25 years, 
-assuming a constant increase of 1.6 millimeters per year. It uses a while loop to display the 
-cumulative rise for each year, formatting the results to two decimal places for clarity."""
+#This Python program calculates how much the ocean level will rise over the next 25 years, 
+#assuming a constant increase of 1.6 millimeters per year. It uses a while loop to display the 
+#cumulative rise for each year, formatting the results to two decimal places for clarity.
 
 totalYears = 25 #The total of year this program will run
 oceanLevel = 1.6 #Rate of Ocean's Level rise per year
