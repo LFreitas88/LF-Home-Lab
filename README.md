@@ -32,12 +32,12 @@ Everything in this repository is tested and structured for self-hosting and expe
 I use this space to explore new technologies and refine the setup of my own AI environment.
 
 **Core tools I work with:**
-- 🐍 Python (for scripts and automations)  
-- 🧠 AI tools: Open WebUI, Ollama, Stable Diffusion, Coqui TTS  
+- 🛡️ Cybersecurity & 🐍 Python (for scripts, security labs, and automations)  
+- 🧠 AI tools: Open WebUI, Ollama, Stable Diffusion  
 - 🐳 Docker + Docker Compose  
 - 🖥️ Ubuntu & Windows dual environment  
-- ⚙️ Automation: n8n, Bash scripts, and container services  
-
+- ⚙️ Automation: n8n, Bash scripts, and container services
+  
 ---
 
 ### ⚖️ License
