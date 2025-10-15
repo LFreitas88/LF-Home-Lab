@@ -21,7 +21,7 @@ The goal of this repo is simple:
 
 | Folder | Description |
 |--------|--------------|
-| [**PythonScripts/**](PythonScripts) | Collection of Python scripts created through my learning journey — includes exercises, automations, and basic examples with full documentation. |
+| [**CollegePythonScripts/**](CollegePythonScripts) | Collection of Python scripts created through my learning journey — includes exercises, automations, and basic examples with full documentation. |
 | *(Coming soon)* | Configurations from my Home Server. |
 
 ---
