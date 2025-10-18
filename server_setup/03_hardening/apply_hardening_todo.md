@@ -79,9 +79,3 @@ sudo lynis audit system | tee ~/lynis_audit_$(date +%F).log
 ```
 
 New reports will be sanitized (redacting hostnames, IPs, SSIDs, and other identifiers) before publishing.
-
-### 🗓️ Audit History
-| Date       | Hardening Index | Notes / Changes                 |
-|-------------|----------------|----------------------------------|
-| 2025-10-18  | 65             | Initial scan after setup         |
-| (Next run)  | —              | After SSH & auditd hardening     |
