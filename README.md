@@ -22,7 +22,7 @@ The goal of this repo is simple:
 | Folder | Description |
 |--------|--------------|
 | [**CollegePythonScripts/**](CollegePythonScripts) | Collection of Python scripts created through my learning journey — includes exercises, automations, and basic examples with full documentation. |
-| *(Coming soon)* | Configurations from my Home Server. |
+| [**Server Setup/**](server_setup) | Configuration files, hardening reports, and automation scripts for my Debian-based Home Server — includes network setup, SSH security, and ongoing Lynis audit documentation. |
 
 ---
 
