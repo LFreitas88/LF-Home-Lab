@@ -18,7 +18,7 @@
 💼 CNC Programmer → Searchin for an opportunity to migrate to I.T. / Cybersecurity (in progress)
 
 **Why this repository exists:**
-I learn best by building real infrastructure. This homelab started as a simple Debian server and evolved into a production environment running DNS security (Pi-hole), workflow automation (N8N), and various self-hosted services. Every configuration, security hardening step, and experiment is documented here.
+I learn best by building real infrastructure. This homelab started as a simple Debian server and my idea is to evolve it into a production environment running DNS security (Pi-hole), workflow automation (N8N), and various self-hosted services. Every configuration, security hardening step, and experiment will be documented here.
 
 ---
 
